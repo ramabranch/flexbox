@@ -9,6 +9,7 @@ section{
     border: 1px solid #000;
     margin: 25px auto;
     display: flex;
+    flex-wrap: wrap;
 }
 
 .span1{
