@@ -9,22 +9,21 @@ section{
     border: 1px solid #000;
     margin: 25px auto;
     display: flex;
-    flex-wrap: wrap;
 }
 
-.article1{
+.span1{
     background: #4aaa5f;
     width: 300px;
     height: 300px;
 }
 
-.article2{
+.span2{
     background: #4752b3;
     width: 100px;
     height: 300px;
 }
 
-.article3{
+.span3{
     background: #b3a847;
     width: 400px;
     height: 100px;
